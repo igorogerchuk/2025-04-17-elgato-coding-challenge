@@ -5,4 +5,3 @@ dist
 npm-debug.log
 .DS_Store
 __MACOSX
-next-env.d.ts
